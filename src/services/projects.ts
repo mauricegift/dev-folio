@@ -2,6 +2,24 @@ import { Project } from './types';
 
 export const PROJECTS: Project[] = [
   {
+    id: "moviesapi",
+    title: "Movies Api",
+    description: "Complete access to movies, TV series, and streaming sources with Gifted Movies powerful REST API. The API comprises of features such as Optimized response times under 200ms for better UX, Enterprise-grade infrastructure with 99.9% uptime guarantee, Access download links in various qualities from 360p to 1080p, Get comprehensive information including trailers, cast, ratings, and descriptions, Search across thousands of movies and TV series with real-time results and Secure API access with Bearer token authentication.",
+    techStack: ["Cloudflare", "Tailwind", "HTML", "CSS", "Vercel", "JavaScript"],
+    githubUrl: "https://github.com/mauricegift",
+    liveUrl: "https://movieapi.giftedtech.co.ke",
+    images: [
+      "https://files.giftedtech.co.ke/image/OVKakScreenshot-2026-01-03-182532.png?auto=format&fit=crop&q=80&w=800",
+      "https://files.giftedtech.co.ke/image/xhT1Screenshot-2026-01-03-182625.png?auto=format&fit=crop&q=80&w=800",
+      "https://files.giftedtech.co.ke/image/2vi3Screenshot-2026-01-03-182748.png?auto=format&fit=crop&q=80&w=800",
+      "https://files.giftedtech.co.ke/image/wKDLScreenshot-2026-01-03-182655.png?auto=format&fit=crop&q=80&w=800",
+      "https://files.giftedtech.co.ke/image/r4cUScreenshot-2026-01-03-182713.png?auto=format&fit=crop&q=80&w=800",
+      "https://files.giftedtech.co.ke/image/O7pKaScreenshot-2026-01-03-182726.png?auto=format&fit=crop&q=80&w=800"
+    ],
+    category: "Frontend",
+    status: "Complete"
+  },
+  {
     id: "devfolio",
     title: "Dev Folio",
     description: "A modern smooth animated developer portfolio that is all device responsive. Helps developers to showcase their projects, share their skills and experiences, education journey and ability to create blogs as well. Has contact form that can get either submitted via email or whatsapp.",
