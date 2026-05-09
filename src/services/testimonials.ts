@@ -9,6 +9,6 @@ export const TESTIMONIALS = [
     quote: "One of the few engineers who truly understands the intersection of productive website design and deep technical infrastructure.",
     author: "Dancan Ochieng",
     position: "CEO, DanTech SecureNet Command Centre",
-    image: "https://files.giftedtech.co.ke/image/nVDantech-Securenet.jpg?auto=format&fit=crop&q=80&w=150"
+    image: "https://files.gifted.co.ke/image/nVDantech-Securenet.jpg?auto=format&fit=crop&q=80&w=150"
   }
 ];
