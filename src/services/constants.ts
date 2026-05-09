@@ -4,13 +4,13 @@ export const DEV_INFO: DeveloperInfo = {
   name: "Maurice Gift",
   title: "Self Learned Developer & Programmer, Upcoming Software Engineer",
   bio: "Crafting scalable digital experiences with tech stack like React, Node.js, and AI. Specialized in distributed systems and high-performance UI components with a focus on enterprise-grade security.",
-  email: "founder@giftedtech.co.ke",
+  email: "founder@gifted.co.ke",
   github: "github.com/mauricegift",
   linkedin: "linkedin.com/in/mauricegift",
   twitter: "twitter.com/GiftedMauriceKe",
   location: "Eldoret, Kenya",
   phone: "+254 (799) 916-673", //hey nigga if editing this ensure it's in international format this way for contact form to work well
-  photoUrl: "https://files.giftedtech.co.ke/image/IBmmygifted2.png",
+  photoUrl: "https://files.gifted.co.ke/image/IBmmygifted2.png",
   instagram: "instagram.com/giftedtechnexus",
   facebook: "facebook.com/giftedtechnexus",
   tiktok: "tiktok.com/@giftedtechke",
@@ -20,7 +20,7 @@ export const DEV_INFO: DeveloperInfo = {
 
 export const WEB_INFO = {
   siteName: "GIFTED",
-  logoUrl: "https://files.giftedtech.co.ke/image/ERNdgifted-md-nobg1.png"
+  logoUrl: "https://files.gifted.co.ke/image/ERNdgifted-md-nobg1.png"
 };
 
 export const STATS = [
