@@ -7,7 +7,7 @@ export const EDUCATION: Education[] = [
     year: "2024 - Ongoing",
     grade: "___",
     description: "The urge to gain more knowledge day by day via self research and building test projects. I'm just a self learning dev during my free time",
-    institutionImage: "https://files.giftedtech.co.ke/image/ERNdgifted-md-nobg1.png?auto=format&fit=crop&q=80&w=800"
+    institutionImage: "https://files.gifted.co.ke/image/ERNdgifted-md-nobg1.png?auto=format&fit=crop&q=80&w=800"
   },
   {
     degree: "Bachelor of Business Management",
@@ -15,7 +15,7 @@ export const EDUCATION: Education[] = [
     year: "2022 - Ongoing",
     grade: "___",
     description: "Current Study Level(Undergraduate).",
-    institutionImage: "https://files.giftedtech.co.ke/image/Or8Moi_University_logo.jpg?auto=format&fit=crop&q=80&w=800"
+    institutionImage: "https://files.gifted.co.ke/image/Or8Moi_University_logo.jpg?auto=format&fit=crop&q=80&w=800"
   },
   {
     degree: "Kenya Certificate Of Secondary School",
@@ -23,7 +23,7 @@ export const EDUCATION: Education[] = [
     year: "2017 - 2020",
     grade: "GRADE: B-",
     description: "Got above average performance, allowing me to proceed to higher learning institution.",
-    institutionImage: "https://files.giftedtech.co.ke/image/dQXimages.jpeg?auto=format&fit=crop&q=80&w=800"
+    institutionImage: "https://files.gifted.co.ke/image/dQXimages.jpeg?auto=format&fit=crop&q=80&w=800"
   },
   {
     degree: "Kenya Certificate Of Primary School",
@@ -31,6 +31,6 @@ export const EDUCATION: Education[] = [
     year: "2008 - 2016",
     grade: "304 marks",
     description: "Got above average 304 marks out of 500 marks, allowing me to proceed to secondary school.",
-    institutionImage: "https://files.giftedtech.co.ke/image/2QScreenshot_20260101_051139_Chrome.jpg?auto=format&fit=crop&q=80&w=800"
+    institutionImage: "https://files.gifted.co.ke/image/2QScreenshot_20260101_051139_Chrome.jpg?auto=format&fit=crop&q=80&w=800"
   }
 ];
